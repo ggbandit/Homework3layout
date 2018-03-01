@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework3layout</string>
+    <string name="btn1">Background 1</string>
+    <string name="btn2">Background 2</string>
+    <string name="btn3">background 3</string>
+    <string name="tv1">My Profile</string>
+    <string name="tv2">My name is Kittinan Chanpreecha</string>
+    <string name="tv3">5835512020 Computer Of Engineering</string>
+    <string name="tv4">Homework SOFTWARE DEVE METHODOLOGIES</string>
+</resources>

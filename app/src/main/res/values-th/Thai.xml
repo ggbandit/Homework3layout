@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn1">พื้นหลัง 1</string>
+    <string name="btn2">พื้นหลัง 2</string>
+    <string name="btn3">พื้นหลัง 3</string>
+    <string name="tv1">โปรไฟล์ของฉัน</string>
+    <string name="tv2">ผมชื่อ กิตตินันท์ ชาญปรีชา</string>
+    <string name="tv3">5835512020 วิศวกรรมคอมพิวเตอร์</string>
+    <string name="tv4">การบ้าน SOFTWARE DEVE METHODOLOGIES</string>
+</resources>
